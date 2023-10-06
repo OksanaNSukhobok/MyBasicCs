@@ -34,7 +34,7 @@
             // 
             // btnSubForm
             // 
-            this.btnSubForm.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.btnSubForm.Font = new System.Drawing.Font("Arial Narrow", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.btnSubForm.Location = new System.Drawing.Point(342, 462);
             this.btnSubForm.Name = "btnSubForm";
             this.btnSubForm.Size = new System.Drawing.Size(186, 62);
@@ -45,7 +45,6 @@
             // 
             // txtOutput
             // 
-            this.txtOutput.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtOutput.Location = new System.Drawing.Point(35, 24);
             this.txtOutput.Multiline = true;
             this.txtOutput.Name = "txtOutput";
