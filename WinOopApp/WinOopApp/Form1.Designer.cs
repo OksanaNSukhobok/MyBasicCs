@@ -34,6 +34,7 @@
             // 
             // btnTest
             // 
+            this.btnTest.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.btnTest.Location = new System.Drawing.Point(384, 473);
             this.btnTest.Name = "btnTest";
             this.btnTest.Size = new System.Drawing.Size(87, 40);
@@ -44,6 +45,9 @@
             // 
             // txtOutput
             // 
+            this.txtOutput.BackColor = System.Drawing.SystemColors.HighlightText;
+            this.txtOutput.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtOutput.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.txtOutput.Location = new System.Drawing.Point(28, 27);
             this.txtOutput.Multiline = true;
             this.txtOutput.Name = "txtOutput";
