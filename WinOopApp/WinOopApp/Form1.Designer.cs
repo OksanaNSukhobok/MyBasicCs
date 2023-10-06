@@ -45,6 +45,7 @@
             // 
             // txtOutput
             // 
+            this.txtOutput.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtOutput.Location = new System.Drawing.Point(28, 27);
             this.txtOutput.Multiline = true;
             this.txtOutput.Name = "txtOutput";
