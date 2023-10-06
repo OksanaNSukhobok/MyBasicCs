@@ -34,6 +34,7 @@
             // 
             // btnSubForm
             // 
+            this.btnSubForm.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.btnSubForm.Location = new System.Drawing.Point(342, 462);
             this.btnSubForm.Name = "btnSubForm";
             this.btnSubForm.Size = new System.Drawing.Size(186, 62);
