@@ -34,6 +34,7 @@
             // 
             // btnTest
             // 
+            this.btnTest.Font = new System.Drawing.Font("Arial Narrow", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.btnTest.Location = new System.Drawing.Point(384, 473);
             this.btnTest.Name = "btnTest";
             this.btnTest.Size = new System.Drawing.Size(87, 40);
