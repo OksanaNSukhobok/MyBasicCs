@@ -45,6 +45,8 @@
             // 
             // txtOutput
             // 
+            this.txtOutput.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtOutput.Font = new System.Drawing.Font("Arial Narrow", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.txtOutput.Location = new System.Drawing.Point(35, 24);
             this.txtOutput.Multiline = true;
             this.txtOutput.Name = "txtOutput";
